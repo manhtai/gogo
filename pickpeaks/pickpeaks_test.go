@@ -1,7 +1,7 @@
 package pickpeaks_test
 
 import (
-	. "github.com/manhtai/gogo"
+	. "github.com/manhtai/gogo/pickpeaks"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
